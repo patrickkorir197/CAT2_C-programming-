@@ -1,0 +1,1 @@
+An array structure is a data structure that store a fixed size sequence of elements of the same data type in contiguous memory location and each element can be accessed in an index number.
